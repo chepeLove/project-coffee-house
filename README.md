@@ -1,6 +1,7 @@
 # Project Coffee House
 
-Stack: HTML, CSS,JavaScript
+Stack: React, Redux Toolkit,TypeScript, SCSS
+
 Layout: https://www.figma.com/file/yuPBhtrqVtcS6ri9mIdWN2/Coffee-House-(Copy)?node-id=0%3A1&mode=dev
 
 
