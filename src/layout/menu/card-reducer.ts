@@ -32,7 +32,7 @@ const slice = createSlice({
                 price: action.payload.item.size[0].price
             }
         },
-        clearCardInfo: () => {
+        clearCardInfo: (state,action) => {
             return {} as FinalCardData
         },
         changeSize: (state, action: PayloadAction<{ id: number }>) => {
